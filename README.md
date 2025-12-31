@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm İlknur</h1>
 <h3 align="center">I'm trying to satisfy my curiosity</h3>
 
-- 💬 Ask me about **sql,java**
+- 💬 Ask me about **,PYTHON,JAVA,SQL**
 
 - 📫 How to reach me **ilknurakcaba@gmail.com**
 
