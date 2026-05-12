@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=%C4%B0lknur%20AKCABA&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20Student%20%7C%20AI%20Researcher&descAlignY=58&descSize=18&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,50:4169e1,100:00bfff&height=200&section=header&text=%C4%B0lknur%20AKCABA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20Student%20%7C%20AI%20Researcher&descAlignY=58&descSize=18&descColor=e0f0ff" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i%CC%87lknurakcaba/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ilknurakcaba)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilknurakcaba@gmail.com)
 
 </div>
 
@@ -76,21 +75,11 @@ An automated internship management platform for Erzurum Technical University, bu
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ilknurakcaba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurakcaba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:4169e1,100:1e90ff&height=100&section=footer" />
 
 *"Building impactful solutions, one commit at a time."*
 
